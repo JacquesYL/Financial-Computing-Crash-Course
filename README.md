@@ -8,7 +8,7 @@ A crash course for financial computing using MATLAB. Designed for first or secon
 
 * Monthly close prices data of 10 stocks from 2000 to 2019. Used for portfolio optimzation
 
-### `jpm_price_2000_2019.xlsx`
+#### `jpm_price_2000_2019.xlsx`
 
 * Daily stock price of JP Morgan from 2000 to 2019. Used for option pricing 
 
