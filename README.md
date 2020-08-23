@@ -4,7 +4,7 @@ A crash course for financial computing using MATLAB. Designed for first or secon
 
 ## Two data files
 
-### `stock_price_2000_2019.xlsx`
+#### `stock_price_2000_2019.xlsx`
 
 * Monthly close prices data of 10 stocks from 2000 to 2019. Used for portfolio optimzation
 
